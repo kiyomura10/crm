@@ -246,6 +246,10 @@ return [
         'updated_at' => '更新日',
         'username' => 'ユーザー名',
         'year' => '年',
+        'kana' => 'カナ',
+        'tel' => '電話番号',
+        'postcode' => '郵便番号',
+        'memo' => 'メモ'
     ],
 
 ];
